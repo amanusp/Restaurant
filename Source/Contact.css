@@ -1,0 +1,74 @@
+.cook1{
+background: url(/home/aman/food/src/images/cook1.jpg);
+background-size:100%;
+height: 550px;
+}
+.sec1{
+    height:100px;
+    width: 100%;
+   text-align: center;
+}
+.sec2{
+    height:450px;
+    width:50%;
+    float:left;
+}
+.sec3{
+    height:450px;
+    width:49%;
+    float: left;
+    text-align:left;
+}
+.cntct{
+    color: white;
+    margin-top: 0;
+}
+.cline{
+    color:white;
+    margin-left:100px;
+}
+.clin{
+    color:black;
+    margin-left:170px;
+}
+.apnt{
+    height:25px;
+    width:25px;
+    margin-left: 150px;
+    
+}
+.cnta{
+    height:350px;
+    width:500px;
+    background: white;
+    margin-left: 50px;
+    border-radius: 25px 0px 25px 0px;
+}
+.tf{
+    height:25px;
+    width:300px;
+    border: transparent;
+    border-bottom: solid black;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:25px;
+}
+.cbtn{
+    font-size:25px;
+    font-family: cursive;
+    height:40px;
+    width:120px;
+    background:grey;
+    border:solid black;
+    border-radius:10px 10px 10px 10px;
+    margin-left:190px;
+    margin-top:20px;
+    cursor: pointer;
+}
+.cbtn:hover{
+    background: hotpink;
+}
+.cli{
+        color:indigo;
+        margin-left:170px;
+}

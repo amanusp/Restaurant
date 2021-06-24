@@ -1,0 +1,9 @@
+.footer{
+    height:100px;
+    background: grey;
+    width: 100%;
+}
+.cpyrt{
+    float: right;
+    color: white;
+}

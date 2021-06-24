@@ -1,0 +1,38 @@
+.show{
+    height:150px;
+    width:187px;
+    padding:5px;
+    margin:auto ;
+}
+.post{
+    height:250px;
+    width:200px;
+    padding:12px;
+    margin-left:50px;
+    border: double black;
+    float: left;
+    margin-top: 20px;
+    box-shadow: 0px 12px 18px -6px rgb(0,0,0,0.3);
+}
+.post:hover{
+    border:double goldenrod;
+    background: lightgoldenrodyellow;
+}
+.container{
+    /* margin-bottom: 50 px; */
+    width: 100%;
+}
+.t1{
+    height: 300px;
+}
+.type{
+    margin-left:50px;
+}
+.quote{
+    font-family: monospace;
+}
+.atc{
+    height: 25px;
+    width:100px;
+    margin-left: 40px;
+}
